@@ -1,9 +1,6 @@
 
 
-# Computer Systems student
-University of Limerick 
-
-# Languages:
+## Languages I somewhat know:
 - Java
 - C++
 - Python
