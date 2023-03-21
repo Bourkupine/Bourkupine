@@ -5,5 +5,5 @@ University of Limerick
 
 # Languages:
 - Java
-- Kotlin
-- Rust
+- C++
+- Python
