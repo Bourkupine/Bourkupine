@@ -1,6 +1,6 @@
 
 
 ## Languages I somewhat know:
-- Java
 - C/C++
+- Java
 - Python
