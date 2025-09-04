@@ -3,5 +3,6 @@
 - Java
 - Python
 
-Bulk of my experience comes from an 8 month internship with Intel where I worked on the Open Source project DPDK \
-https://github.com/DPDK/dpdk
+Working for IBM as a Linux Kernel Developer
+
+Internship at Intel working on the Open Source DPDK project
